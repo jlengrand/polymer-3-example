@@ -1,0 +1,14 @@
+{
+  "name": "polymer3",
+  "version": "1.0.0",
+  "description": "First test Polymer 3",
+  "main": "index.js",
+  "repository": "None",
+  "flat": true,
+  "author": "Julien Lengrand-Lambert <julien@lengrand.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/paper-button": "next",
+    "@polymer/polymer": "next"
+  }
+}
